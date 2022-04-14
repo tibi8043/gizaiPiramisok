@@ -1,0 +1,27 @@
+:root {
+    --bg: #e4ceaf;
+    --betu: #562A0E;
+    --cim: #;
+}
+body{
+    background-image:  url(../Images/bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: rgba(228, 206, 175, 0.463);
+    margin: 0;
+}
+.header{
+    background-color: var(--bg);
+    border:  0;
+}
+.leiras{
+    font-size: 20px;
+    color: var(--betu);
+    text-align: justify;
+}
+.doboz{
+    background-color: #e4ceaf9c;
+}
+.footer{
+    background-color: var(--bg);
+}
